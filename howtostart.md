@@ -10,4 +10,4 @@
 4.
 ![Alt text](_images/start/04.JPG)  
 5.
-![Alt text](_images/start/01.JPG)
+![Alt text](_images/start/05.JPG)
