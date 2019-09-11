@@ -1,7 +1,8 @@
 # 다이얼로그 기반의 펜
 ### 시작은 howtostart.md를 참조해주길 바람  
   
-1. 기본 화면에서 속성의 메시지를 클릭하여 아래로 내리면 WM_MOUSEMOVE 가 있다.  이것을 OnMouseMove로 바꿔주면 그에 해당하는 함수를 작성할 수 있게 뜰것이다.  
+1. 기본 화면에서 속성의 메시지를 클릭하여 아래로 내리면 WM_MOUSEMOVE 가 있다.  
+이것을 OnMouseMove로 바꿔주면 그에 해당하는 함수를 작성할 수 있게 뜰것이다.  
 
 ![Alt text](_images/makepen/01.JPG)
   
