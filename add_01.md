@@ -1,4 +1,4 @@
-# 덧셈 계산기 만들기 - 01
+# 덧셈 계산기 만들기 01
 1. 도구 상자에서 Edit Control(3개), Button(1개), Static Text(1개) 를 선택해서 아래와 같이 배치해준다
 ![Alt text](_images/cal_01/cal_01_01.JPG)  
 * 여기서 Edit Control의 속성에서 ID를 E1,E2,E3 로 바꿔준다
