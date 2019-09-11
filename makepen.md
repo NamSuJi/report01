@@ -15,5 +15,5 @@
 * CPen pen(PS_SOLID, 16, RGB(0,255,0));은 16pt 크기의 초록색 펜이 나올 것이다.
 * MoveTo는 움직임을 따라가는 것이고 LineTo는 클릭된 순간부터 그려지는 것이다.
 
-3. 완성
+3. 완성  
 ![Alt text](_images/makepen/04.JPG)
